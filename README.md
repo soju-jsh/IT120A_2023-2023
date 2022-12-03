@@ -31,7 +31,8 @@
     5. Computes the sum of even or odd numbers up to N.
     6. Prints the Fibonacci series up to the Nth term.
     7. Prints a right triangle of asterisks with the hypotenuse ascending from left to right.
-    8. Upgrades the simple calculator program so that the user can continuously use the program until they type ‘X’ to exit.
+    8. Upgrades the simple calculator program so that the user can 
+       continuously use the program until they type ‘X’ to exit.
     
 ### Lecture 3
   Write a program in C 
