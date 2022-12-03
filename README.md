@@ -1,3 +1,9 @@
-# C-Exercises - 2023-2023
-Exercises from my E-Tech 2022-2023 
+# IT120A - 2023-2023
 # Graded Projects
+##MP1
+> Decimal/Octal System
+> Decimal/Binary System
+> Decimal/Hexadecimal System
+##MP2
+> Programmer's Calculator
+
