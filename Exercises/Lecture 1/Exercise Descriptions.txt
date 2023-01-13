@@ -1,0 +1,9 @@
+  Lecture 1 Exercises:
+    1) Given integers A and B, performs all four arithmetic operations.
+    2) Given integers L and W, calculates the area of a rectangle.
+    3) Calculates the area of a circle (hint: You need float-type variables).
+    4) Calculates the volume of a cylinder.
+    5) Converts measurements in centimeters to inches.
+    6) Converts measurements in feet to centimeters.
+    7) Converts time in days to years, weeks, and days.
+    8) Given 10 grades, calculates the average and percentage.
