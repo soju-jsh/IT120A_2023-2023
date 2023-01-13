@@ -1,9 +1,18 @@
 /*
     Lecture 4
-    Exercise: Palindrome detector
+    Exercise: 
+        Palindrome detector
+        Create separate functions for determining the length of a string and reversing a string.
 */
 
 #include <stdio.h>
+
+// Function
+int len(char string[]) {
+    int length;
+    for (length = 0; string[length] != '\0'; length++);
+    return length;
+}
 
 int main() {
     char string[100];
@@ -13,8 +22,7 @@ int main() {
     gets(string);
 
     // Get length
-    int length;
-    for (length = 0; string[length] != '\0'; length++);
+    int length = len(string);
 
     // Copy string but in reverse to reversed variable
     char reversed[100] = "";
