@@ -1,0 +1,6 @@
+  Lecture 3 Exercises:
+    1) Printf string in reverse
+    2) Reverse string array
+    3) Input string and character, find character in the string
+    4) Comparing the characters between two strings
+    5) Bubble sort algorithm on an array of ten or more integers elements
