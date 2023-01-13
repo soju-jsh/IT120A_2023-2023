@@ -1,61 +1,68 @@
-# IT120A - 2023-2023
-  ### Focused on basic C language
+![banner](https://user-images.githubusercontent.com/119753190/212424956-2d6f87b2-4748-4b00-86e6-32b8a6f774cb.png)
 
-      1) Basic program structure and parts
-      2) Basic output
-      3) Variables
-      4) Basic operations on variables
-      5) Basic input
-      6) Conditionals
-      7) Loops
-      8) Simple Data Structures
-      9) Functions
+<hr>
 
-# Graded Projects
-   ### MP1
-      > Decimal/Octal System
-      > Decimal/Binary System
-      > Decimal/Hexadecimal System
-   ### MP2
-      > Programmer's Calculator
+<div align=center>
+<img src="https://user-images.githubusercontent.com/119753190/212425744-81025eab-139b-42aa-971b-c751c375602c.png" width=480>
 
-# Exercises
-   ### Lecture 1
-   Write a program in C 
+<h2>Focused on basic C language</h2>
+- Basic program structure and parts<br>
+- Basic output<br>
+- Variables<br>
+- Basic operations on variables<br>
+- Basic input<br>
+- Conditionals<br>
+- Loops<br>
+- Simple Data Structures<br>
+- Functions
 
-      1) Given integers A and B, performs all four arithmetic operations.
-      2) Given integers L and W, calculates the area of a rectangle.
-      3) Calculates the area of a circle (hint: You need float-type variables).
-      4) Calculates the volume of a cylinder.
-      5) Converts measurements in centimeters to inches.
-      6) Converts measurements in feet to centimeters.
-      7) Converts time in days to years, weeks, and days.
-      8) Given 10 grades, calculates the average and percentage.
+<hr>
 
-  ### Lecture 2
-  Write a program in C 
- 
-      1) Performs multiplication via repeated addition.
-      2) Performs division via repeated subtraction.
-      3) Computes the summation of counting numbers from 1 to N.
-      4) Computes the factorial of N.
-      5) Computes the sum of even or odd numbers up to N.
-      6) Prints the Fibonacci series up to the Nth term.
-      7) Prints a right triangle of asterisks with the hypotenuse ascending from left to right.
-      8) Upgrades the simple calculator program so that the user can 
-       continuously use the program until they type ‘X’ to exit.
+![GRADED_PROJECTS](https://user-images.githubusercontent.com/119753190/212424672-b0cddbc2-3a07-4a26-843b-7057c6c789e2.png)
+
+<h3>MP1</h3>
+- Decimal/Octal System<br>
+- Decimal/Binary System<br>
+- Decimal/Hexadecimal System
+
+<h3>MP2</h3>
+- Programmer's Calculator
+
+<hr>
+
+![EXERCISES](https://user-images.githubusercontent.com/119753190/212424578-a59793ef-468b-44ad-acf0-7868401b8e7d.png)
+
+<h3>Lecture 1</h3>
+- Given integers A and B, performs all four arithmetic operations<br>
+- Given integers L and W, calculates the area of a rectangle<br>
+- Calculates the area of a circle<br>
+- Calculates the volume of a cylinder<br>
+- Converts measurements in centimeters to inches<br>
+- Converts measurements in feet to centimeters<br>
+- Converts time in days to years, weeks, and days<br>
+- Given 10 grades, calculates the average and percentage
+
+
+<h3>Lecture 2</h3>
+- Performs multiplication via repeated addition<br>
+- Performs division via repeated subtraction<br>
+- Computes the summation of counting numbers from 1 to N<br>
+- Computes the factorial of N<br>
+- Computes the sum of even or odd numbers up to N<br>
+- Prints the Fibonacci series up to the Nth term<br>
+- Prints a right triangle of asterisks with the hypotenuse ascending from left to right<br>
+- Upgrades the simple calculator program so that the user can continuously use the program until they type ‘X’ to exit
     
-### Lecture 3
-  Write a program in C 
-  
-      1) Printf string in reverse
-      2) Reverse string array
-      3) Input string and character, find character in the string
-      4) Comparing the characters between two strings
-      5) Bubble sort algorithm on an array of ten or more integers elements
+<h3>Lecture 3</h3>
+- Printf string in reverse<br>
+- Reverse string array<br>
+- Input string and character, find character in the string<br>
+- Comparing the characters between two strings<br>
+- Bubble sort algorithm on an array of ten or more integers elements
 
-### Lecture 4
-  Write a program in C 
-  
-      1) Rewrite simple calculator but with each operations having their own functions
-      2) Palindrome detector
+
+<h3>Lecture 4</h3>
+- Rewrite simple calculator but with each operations having their own functions<br>
+- Palindrome detector
+
+</div>
