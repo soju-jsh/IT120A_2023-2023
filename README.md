@@ -3,7 +3,7 @@
 <hr>
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/119753190/212428286-9021b9b2-87c5-4803-bfdd-01b00ed7d371.png" width=480>
+<img src="https://user-images.githubusercontent.com/119753190/212428424-eeb82c15-cb9a-409b-b82b-b04d033f74b5.png" width=480>
 
 <h2>Focused on basic C language</h2>
 - Basic program structure and parts<br>
