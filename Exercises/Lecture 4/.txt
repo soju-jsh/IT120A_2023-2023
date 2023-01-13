@@ -1,1 +1,3 @@
-
+  Lecture 4 Exercises:
+    1) Rewrite simple calculator but with each operations having their own functions
+    2) Palindrome detector
