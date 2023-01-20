@@ -1,5 +1,7 @@
 /*
-    Gets the string length
+    Function
+        Purpose: Gets the string length
+        Return: (int) Length
 */
 
 #include <stdio.h>
