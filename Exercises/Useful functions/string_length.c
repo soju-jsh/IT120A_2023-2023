@@ -2,18 +2,18 @@
     Function
         Purpose: Gets the string length
         Return: (int) Length
-*/
+*/  
 
 #include <stdio.h>
 
 int get_length(char string[]) {
     int length;
-    for(length = 0; string[length]; length++)
+    for(length = 0; string[length] != '\0'; length++);
     return length;
 }
 
 int main() {
-    char example_string[] = "jsh.ncsbg";
+    char example_string[20] = "jsh.ncsbg";
     /*
         Or have your own string
             scanf("%s", example_string);
